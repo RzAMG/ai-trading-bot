@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: trading-ui
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run ui.py"
+    plan: free
+
+  - type: worker
+    name: trading-bot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python live_trader.py"
+    plan: free
