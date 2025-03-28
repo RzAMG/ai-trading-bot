@@ -1,0 +1,165 @@
+{
+  "timestamp": "2025-03-28T13:07:48.848393",
+  "best_overall": {
+    "initial_balance": 10000,
+    "final_balance": 103950.0,
+    "return": 93950.0,
+    "num_trades": 1879,
+    "win_rate": 100.0,
+    "winning_trades": 1879,
+    "strategy": "ema_cross_buy",
+    "fitness": 94337.9
+  },
+  "top_strategies": [
+    {
+      "initial_balance": 10000,
+      "final_balance": 103900.0,
+      "return": 93900.0,
+      "num_trades": 1878,
+      "win_rate": 100.0,
+      "winning_trades": 1878,
+      "strategy": "ema_cross_sell",
+      "fitness": 94287.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103900.0,
+      "return": 93900.0,
+      "num_trades": 1878,
+      "win_rate": 100.0,
+      "winning_trades": 1878,
+      "strategy": "ema_cross_sell",
+      "fitness": 94287.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 45400.0,
+      "return": 35400.0,
+      "num_trades": 708,
+      "win_rate": 100.0,
+      "winning_trades": 708,
+      "strategy": "macd_rsi_buy",
+      "fitness": 35670.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 38800.0,
+      "return": 28800.0,
+      "num_trades": 576,
+      "win_rate": 100.0,
+      "winning_trades": 576,
+      "strategy": "macd_rsi_sell",
+      "fitness": 29057.6
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 10000,
+      "return": 0,
+      "num_trades": 0,
+      "win_rate": 0,
+      "winning_trades": 0,
+      "strategy": "atr_breakout_buy",
+      "fitness": 0.0
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 10000,
+      "return": 0,
+      "num_trades": 0,
+      "win_rate": 0,
+      "winning_trades": 0,
+      "strategy": "stoch_rsi_long",
+      "fitness": 0.0
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103950.0,
+      "return": 93950.0,
+      "num_trades": 1879,
+      "win_rate": 100.0,
+      "winning_trades": 1879,
+      "strategy": "ema_cross_buy",
+      "fitness": 94337.9
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103950.0,
+      "return": 93950.0,
+      "num_trades": 1879,
+      "win_rate": 100.0,
+      "winning_trades": 1879,
+      "strategy": "ema_cross_buy",
+      "fitness": 94337.9
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 45400.0,
+      "return": 35400.0,
+      "num_trades": 708,
+      "win_rate": 100.0,
+      "winning_trades": 708,
+      "strategy": "macd_rsi_buy",
+      "fitness": 35670.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103950.0,
+      "return": 93950.0,
+      "num_trades": 1879,
+      "win_rate": 100.0,
+      "winning_trades": 1879,
+      "strategy": "ema_cross_buy",
+      "fitness": 94337.9
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103950.0,
+      "return": 93950.0,
+      "num_trades": 1879,
+      "win_rate": 100.0,
+      "winning_trades": 1879,
+      "strategy": "ema_cross_buy",
+      "fitness": 94337.9
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 38800.0,
+      "return": 28800.0,
+      "num_trades": 576,
+      "win_rate": 100.0,
+      "winning_trades": 576,
+      "strategy": "macd_rsi_sell",
+      "fitness": 29057.6
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103900.0,
+      "return": 93900.0,
+      "num_trades": 1878,
+      "win_rate": 100.0,
+      "winning_trades": 1878,
+      "strategy": "ema_cross_sell",
+      "fitness": 94287.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 103900.0,
+      "return": 93900.0,
+      "num_trades": 1878,
+      "win_rate": 100.0,
+      "winning_trades": 1878,
+      "strategy": "ema_cross_sell",
+      "fitness": 94287.8
+    },
+    {
+      "initial_balance": 10000,
+      "final_balance": 45400.0,
+      "return": 35400.0,
+      "num_trades": 708,
+      "win_rate": 100.0,
+      "winning_trades": 708,
+      "strategy": "macd_rsi_buy",
+      "fitness": 35670.8
+    }
+  ]
+}

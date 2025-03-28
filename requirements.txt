@@ -1,0 +1,9 @@
+MetaTrader5
+pandas
+ta
+xgboost
+joblib
+flask
+streamlit
+plotly
+requests
